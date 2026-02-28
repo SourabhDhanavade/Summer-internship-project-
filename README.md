@@ -41,3 +41,7 @@ In this dashboard comparison of sales data across 13 routes had been analyzed th
 year (April 2020 - March 2021) and (April 2021 - March 2022). We can see from dashboard 
 the growth to sales in next year is continuous. The performance of sales in some routes has to 
 improve in future.
+
+<strong> 📊 Dashboard Preview </strong><br>
+
+![Dashboard Screenshot](Dashboard_Screenshot.png)
